@@ -1,0 +1,144 @@
+[
+  {
+    "nodes" : [
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{261, 177}, {42, 32}}",
+        "class" : "Label",
+        "attributes" : {
+          "font_size" : 18,
+          "frame" : "{{125, 374}, {150, 32}}",
+          "uuid" : "2BC99CAD-1B7E-47B3-84BF-9543CE8A02CA",
+          "class" : "Label",
+          "alignment" : "left",
+          "text" : "℃",
+          "background_color" : "RGBA(0.656250,0.852679,1.000000,1.000000)",
+          "name" : "label1",
+          "font_name" : "<System>"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{53, 177}, {200, 32}}",
+        "class" : "TextField",
+        "attributes" : {
+          "uuid" : "C182AA73-9333-46E8-90FD-358A83C48AF0",
+          "font_size" : 17,
+          "frame" : "{{100, 374}, {200, 32}}",
+          "action" : "calc",
+          "alignment" : "left",
+          "autocorrection_type" : "default",
+          "text" : "0",
+          "font_name" : "<System>",
+          "spellchecking_type" : "default",
+          "class" : "TextField",
+          "name" : "textfield1",
+          "flex" : "W"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{53, 232}, {200, 32}}",
+        "class" : "TextField",
+        "attributes" : {
+          "uuid" : "85494D5E-4861-4FE2-8EA1-ADD308F8E7AA",
+          "font_size" : 17,
+          "frame" : "{{100, 374}, {200, 32}}",
+          "action" : "calc",
+          "alignment" : "left",
+          "autocorrection_type" : "default",
+          "text" : "0",
+          "font_name" : "<System>",
+          "spellchecking_type" : "default",
+          "class" : "TextField",
+          "name" : "textfield2",
+          "flex" : "W"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{261, 232}, {42, 32}}",
+        "class" : "Label",
+        "attributes" : {
+          "font_size" : 18,
+          "frame" : "{{125, 374}, {150, 32}}",
+          "uuid" : "EC4D88D5-95E0-4405-91AB-25A495A4A913",
+          "class" : "Label",
+          "alignment" : "left",
+          "text" : "°F",
+          "background_color" : "RGBA(1.000000,0.647059,0.647059,1.000000)",
+          "name" : "label2",
+          "font_name" : "<System>"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{85, 23}, {218, 63}}",
+        "class" : "Label",
+        "attributes" : {
+          "uuid" : "B78CE392-6B15-475E-AF00-C1EFEA6FF82C",
+          "font_size" : 18,
+          "background_color" : "RGBA(1.000000,1.000000,1.000000,1.000000)",
+          "frame" : "{{125, 374}, {150, 32}}",
+          "number_of_lines" : 2,
+          "tint_color" : "RGBA(1.000000,1.000000,1.000000,1.000000)",
+          "alignment" : "center",
+          "text" : "℃ °F Converter",
+          "font_name" : "<System>",
+          "class" : "Label",
+          "name" : "label2",
+          "flex" : "W"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{128, 315}, {125, 32}}",
+        "class" : "Button",
+        "attributes" : {
+          "uuid" : "C421B443-31C6-487D-B79D-B00DA9EB99D7",
+          "font_size" : 14,
+          "corner_radius" : 1,
+          "background_color" : "RGBA(0.604167,1.000000,0.604167,1.000000)",
+          "frame" : "{{160, 374}, {80, 32}}",
+          "tint_color" : "RGBA(0.000000,0.000000,0.000000,1.000000)",
+          "border_color" : "RGBA(0.000000,0.000000,0.000000,1.000000)",
+          "border_width" : 1,
+          "title" : " Exchange",
+          "action" : "exchange",
+          "font_bold" : false,
+          "class" : "Button",
+          "name" : "button1",
+          "flex" : "W"
+        },
+        "selected" : false
+      }
+    ],
+    "frame" : "{{0, 0}, {400, 780}}",
+    "class" : "View",
+    "attributes" : {
+      "enabled" : true,
+      "background_color" : "RGBA(1.000000,1.000000,1.000000,1.000000)",
+      "tint_color" : "RGBA(0.000000,0.478000,1.000000,1.000000)",
+      "border_color" : "RGBA(0.000000,0.000000,0.000000,1.000000)",
+      "flex" : ""
+    },
+    "selected" : false
+  }
+]
